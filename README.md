@@ -1,2 +1,6 @@
 # Simple-Calculator-001
-This is a simple calculator.
+<br>
+# Author : Azmat Ali
+<br>
+# GSI Program ( AI-MetaVerse-Web3.0 )
+<br>
