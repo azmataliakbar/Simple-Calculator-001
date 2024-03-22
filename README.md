@@ -1,3 +1,3 @@
-"# Simple-Calculator"
+# Simple-Calculator
 <br>
 # Author : Azmat Ali
