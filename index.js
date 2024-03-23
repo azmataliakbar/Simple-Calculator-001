@@ -27,3 +27,4 @@ else if (answer.operator === "Division") {
 else {
     console.log(chalk.italic.bold.red("Please select a valid operator"));
 }
+console.log(chalk.italic.bold.redBright("\nThe End"));
