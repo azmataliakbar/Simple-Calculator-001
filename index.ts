@@ -30,3 +30,4 @@ if (answer.operator === "Addition") {
   
 }
 
+console.log(chalk.italic.bold.redBright("\nThe End"));
