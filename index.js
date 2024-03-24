@@ -9,7 +9,7 @@ const answer = await inquirer.prompt([
         type: "list",
         name: "operator",
         choices: ["Addition", "Subtraction", "Multiplication", "Division"],
-    },
+    }
 ]);
 // conditional statement
 if (answer.operator === "Addition") {
