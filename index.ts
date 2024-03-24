@@ -5,13 +5,15 @@ import chalk from "chalk";
 import inquirer from "inquirer";
 
 const answer = await inquirer.prompt([
-  {message: chalk.italic.bold.greenBright("Enter first number: "), type: "number", name: "firstNumber"},
+  {message: chalk.italic.bold.greenBright("Enter first number: "), type: "number", name:"firstNumber"},
   {message: chalk.italic.bold.cyanBright("Enter second number: "), type: "number", name: "secondNumber"},
   {
     message: chalk.bold.italic.redBright("Select one of the operators to perform operation"),
     type: "list",
     name: "operator",
     choices: ["Addition", "Subtraction", "Multiplication", "Division"],
+
+
 }
 ]);
 
