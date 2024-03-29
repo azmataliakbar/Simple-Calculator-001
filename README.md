@@ -1,3 +1,5 @@
-# Simple-Calculator
+Simple-Calculator
 <br>
-# Author : Azmat Ali
+Author : Azmat Ali
+<br>
+Project: 1.0
