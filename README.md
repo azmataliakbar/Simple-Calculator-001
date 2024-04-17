@@ -1,4 +1,6 @@
-This is a Simple Calculator.
+# Simple-Calculator-1
+<br>
+This is a Simple Calculator
 <br>
 Author : Azmat Ali
 <br>
